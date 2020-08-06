@@ -6,11 +6,11 @@ Course code: COMP313
 Name: August Bolter  
 Assignment Number: 1  
 Title of the Game: Breakout  
-Link to video showing the game:  https://www.youtube.com/watch?v=--eMFoRCBe8
+Link to video showing the game:  https://www.youtube.com/watch?v=vsaW4hr-1NM
 
 This is a replica of the Atari Game Breakout.  
 
-Press A to move the paddle left and D to move the paddle right. Press R to go back to the main menu  
+Press A to move the paddle left and D to move the paddle right. Press R to go back to the main menu. Press P to pause/unpause the game  
   
 Start the game by using the 'Play' option in Unreal Engine 4 not the 'Launch' option.  
   
