@@ -14,7 +14,9 @@ Press A to move the paddle left and D to move the paddle right. Press R to go ba
   
 Start the game by using the 'Play' option in Unreal Engine 4 not the 'Launch' option.  
   
-**Game Description:** 
+**Game Description:**   
+  
+  
 What is the main action of the game?  
 The main action of the game is moving/positioning the paddle so that it can hit the moving ball. The moving ball destroys blocks it hits and if all blocks in the level are destroyed then the player has won. If the paddle misses the ball and the ball touches the bottom wall then the player loses.  
   
