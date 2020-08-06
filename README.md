@@ -6,7 +6,7 @@ Course code: COMP313
 Name: August Bolter  
 Assignment Number: 1  
 Title of the Game: Breakout  
-Link to video showing the game:  https://www.youtube.com/watch?v=vsaW4hr-1NM
+Link to video showing the game:  https://www.youtube.com/watch?v=KWW0-rxNeGQ
 
 This is a replica of the Atari Game Breakout.  
 
